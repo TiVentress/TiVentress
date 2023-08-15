@@ -1,7 +1,7 @@
 ## 🏳️‍🌈 Hello, Hello, Hello! 👋 🏳️‍🌈
 <br>
 
-Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade SenacRs.
+<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade SenacRs.</p>
 
 
 🌱 Atualmente, estou aprendendo:
