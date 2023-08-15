@@ -1,7 +1,7 @@
 ## 🏳️‍🌈 Hello, Hello, Hello! 👋 🏳️‍🌈
 <br>
 
-<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade SenacRs.</p>
+<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas do 4° semestre na Faculdade SenacRs.</p>
 
 
 - 🌱 Atualmente, estou aprendendo:
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
           
           
-📫 Para entrar em contato comigo:
+- 📫 Para entrar em contato comigo:
 
 <div>
 <a href="https://www.facebook.com/tiventress/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
