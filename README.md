@@ -2,10 +2,9 @@
 <br>
 
 Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade SenacRs.
-  
-<p> </p>
 
-- 🌱 Atualmente, estou aprendendo: <br>
+- 🌱 Atualmente, estou aprendendo:
+- <br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
