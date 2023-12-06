@@ -1,7 +1,7 @@
 ## 🏳️‍🌈 Hello, Hello, Hello! 👋 🏳️‍🌈
 <br>
 
-<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas do 4° semestre na Faculdade SenacRs e Estagiário QA em Testes automatizados no Banrisul (Banco do Estado do Rio Grande do Sul.</p>
+<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas do 4° semestre na Faculdade SenacRs e Estagiário QA em Testes automatizados no Banrisul (Banco do Estado do Rio Grande do Sul).</p>
 
 
 - 🌱 Atualmente, estou aprendendo:
