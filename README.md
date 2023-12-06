@@ -1,11 +1,14 @@
 ## 🏳️‍🌈 Hello, Hello, Hello! 👋 🏳️‍🌈
 <br>
 
-<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas do 4° semestre na Faculdade SenacRs.</p>
+<p>Me chamo Tiago, tenho 32 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas do 4° semestre na Faculdade SenacRs e Estagiário QA em Testes automatizados no Banrisul (Banco do Estado do Rio Grande do Sul.</p>
 
 
 - 🌱 Atualmente, estou aprendendo:
 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" heinght="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
